@@ -5,6 +5,7 @@ This project is an animated tracker designed to accurately populate a map with a
 * [General information](#general-information)
 * [Technologies](#technologies)
 * [Setup](#setup)
+* [Roadmap](#roadmap)
 * [Acknowledgements](#acknowledgements)
 * [License](#license)
 
